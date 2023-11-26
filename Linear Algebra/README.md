@@ -1,4 +1,4 @@
-Linear Algebra
+# Linear Algebra
 
 Lecturer: Prof. Pingping Zeng,
 

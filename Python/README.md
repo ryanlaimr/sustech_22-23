@@ -1,3 +1,3 @@
-Introduction to Python Programming
+# Introduction to Python Programming
 
 Lecturer: Prof. Shengwei Hou

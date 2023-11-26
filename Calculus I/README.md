@@ -1,3 +1,3 @@
-Calculus I
+# Calculus I
 
 Lecturer: Prof. Rong Wang

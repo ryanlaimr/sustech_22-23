@@ -1,6 +1,6 @@
-SUSTech Year 1 Materials
+# SUSTech Year 1 Materials
 
-This GitHub Repo includes the relevant materials of courses I have taken in AY22/23 in SUSTech, before I transferred to NUS.
+This GitHub Repo includes the relevant materials of courses I have taken in AY22/23 in SUSTech, before I moved to Singapore and transferred to NUS.
 
 I took Calculus I, Linear Algebra, and Introduction to Python Programming in AY22/23 Semester 1; Calculus II, Advanced Linear Algebra, and Macroeconomics in AY22/23 Semester 2.
 
